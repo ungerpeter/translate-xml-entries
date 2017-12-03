@@ -1,0 +1,13 @@
+{
+  "name": "translate-xml-entries",
+  "version": "0.0.1",
+  "main": "index.js",
+  "repository": "git@github.com:ungerpeter/translate-xml-entries.git",
+  "author": "Peter Unger <peps.unger@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "google-translate-api": "^2.3.0",
+    "jxon": "^2.0.0-beta.5",
+    "minimist": "^1.2.0"
+  }
+}
